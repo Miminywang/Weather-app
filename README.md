@@ -1,3 +1,5 @@
+#HTML #CSS #RWD #JavaScript
+
 此天氣查詢應用程序實現搜尋城市天氣的功能。使用者在搜尋欄位輸入地點，並即時獲取該地區的天氣、濕度及風速的資訊。
 
 使用技術：CSS, JavaScript, Fetch API, React 
