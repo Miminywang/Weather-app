@@ -1,3 +1,18 @@
+天氣查詢應用程序
+此天氣查詢應用程序實現搜尋城市天氣的功能。使用者在搜尋欄位輸入地點，並即時獲取該地區的天氣、濕度及風速的資訊。
+
+使用技術：CSS, JavaScript, Fetch API, React 
+
+主要成果：
+
+–      在開發過程中，深入學習並成功應用了React框架的相關技術，提升高效地開發互動性強的前端應用。
+
+–      整合OpenWeatherMap的API以獲取程式的天氣數據。
+
+–      應用Fetch API，在更新網頁內容時無需重新載入整個頁面。
+
+
+------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
